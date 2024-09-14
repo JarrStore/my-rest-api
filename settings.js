@@ -1,11 +1,11 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.creator = 'fajar'// yourname
+global.MONGO_DB_URI = "database mongodb" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
-global.limitCount = 10000
+global.your_email = "fajarstore709@gmail.com" //email
+global.email_password = "Jarr2233" //application password email
+global.limitCount = 9999999
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
